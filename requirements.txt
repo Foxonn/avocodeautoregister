@@ -1,0 +1,7 @@
+freeze==1.0.10
+nickname-generator==1.0.1
+passgen==1.1.1
+pyperclip==1.7.0
+selenium==3.141.0
+six==1.13.0
+urllib3==1.25.7
