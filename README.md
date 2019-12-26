@@ -18,7 +18,7 @@
 
 - wfile=(bool) - отключает создание и запись в `access.txt`
 
-- wdpath=(string) - путь до `webdriver.exe`, по умолчанию подключается из то же директории что и сама программа
+- wdpath=(string) - путь до `webdriver.exe`, по умолчанию подключается из той же директории что и сама программа
 
 ####Пример:
 `C:\AvocodeARv.exe hide=true path=H:\ wfile=false wdpath=C:\WebLib mail=emailfake`
