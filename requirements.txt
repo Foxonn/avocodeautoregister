@@ -4,4 +4,4 @@ passgen==1.1.1
 pyperclip==1.7.0
 selenium==3.141.0
 six==1.13.0
-urllib3==1.25.7
+urllib3==1.25.8
